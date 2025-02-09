@@ -7,6 +7,6 @@
 🎓 **Member of the ISTE Club**  
 💞️ I’m looking to collaborate on **exciting web and AI projects**  
 📫 You can reach me at **shivanshgarg2005@gmail.com**  
-⚡ Fun fact: **I love experimenting with creative animations to make websites feel alive!**  
+⚡ **I love experimenting with creative animations to make websites feel alive!**  
 
 ---
