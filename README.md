@@ -122,10 +122,9 @@ I am a driven tech explorer passionate about continuous learning and skill maste
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh1251&layout=donut&theme=radical" width="450" height="200" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=Shivansh1251&show_icons=true&theme=radical" width="450" height="200" />
-
+<img src="https://streak-stats.demolab.com?user=Shivansh1251&theme=radical" width="450" height="200" />
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivansh1251&theme=radical)
 [![Shivansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivansh1251&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Contribution Graph](github-user-contribution.svg)
 
