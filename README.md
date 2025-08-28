@@ -10,10 +10,14 @@
 ⚡ **I love experimenting with creative animations to make websites feel alive!**  
 
 ---
-## ![](https://camo.githubusercontent.com/6099030b2466ea6f0e64b2b4e3b1c0cbc00a8e8321ab4d01976b51095efa2403/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d3130303030303f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) GitHub Stats
+##⚒️ Languages-Frameworks-Tools ⚒️
+---
+## ![](https://camo.githubusercontent.com/6099030b2466ea6f0e64b2b4e3b1c0cbc00a8e8321ab4d01976b51095efa2403/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d3130303030303f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) GitHub Stats ![](https://camo.githubusercontent.com/6099030b2466ea6f0e64b2b4e3b1c0cbc00a8e8321ab4d01976b51095efa2403/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d3130303030303f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/17b3926b462d3f2178cdacf218010f803a0e1452647e0a18c7e3a4910e0cbbc7/68747470733a2f2f7061636d616e2e61626f7a616e6f6e612e6d653f757365726e616d653d70726979616d616767617277616c3138)
 ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivansh1251&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh1251&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shivansh1251&theme=radical)
+
+![Contribution Graph](assets/github-user-contribution.svg)
 
 ---
