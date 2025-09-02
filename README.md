@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=6000&pause=1000&color=000000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Shivansh+Garg)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=6000&pause=1000&color=auto&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Shivansh+Garg)](https://git.io/typing-svg)
+
 <img src="spidertocat.png" alt="Spidertocat" width="400" align="right"/>
 <br>
 <p>
