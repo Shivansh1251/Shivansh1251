@@ -2,7 +2,7 @@
 <img src="spidertocat.png" alt="Spidertocat" width="400" align="right"/>
 <br>
 <p>
-I am a driven tech explorer passionate about continuous learning and skill mastery, especially in Data Structures and Algorithms to solve complex problems. I enjoy coding, debugging, and optimizing solutions while focusing on creating intuitive and visually appealing tech designs. Always eager for new challenges, I am currently expanding my knowledge in Hacking and delving into Spring Boot development to broaden my expertise.</p>
+I am a driven tech explorer passionate about continuous learning and skill mastery, especially in Data Structures and Algorithms to solve complex problems. I enjoy coding, debugging, and optimizing solutions while focusing on creating intuitive and visually appealing tech designs. Always eager for new challenges, I am currently expanding my knowledge in Cloud Tecnologies and devloping into Spring Boot development to broaden my expertise.</p>
 
 <br>
 <br>
